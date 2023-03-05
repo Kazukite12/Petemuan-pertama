@@ -1,0 +1,9 @@
+Overview malam ini:
+1. Struktur dasar HTML
+2. Attribut HTML
+3. Menampilkan gambar
+4. Mengenal selector id, class, tag name
+5. Deklarasi variable, dan define variable
+6. Memodifikasi isi element html dengan JS
+7. Membahas sekilas soal function
+8. Menyingung soal array, object, dan function
